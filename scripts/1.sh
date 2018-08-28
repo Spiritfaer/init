@@ -1,0 +1,1 @@
+awk -F ":" '{print "USER:"$1"  UID:"$3"  PATH:"$6}' /etc/passwd

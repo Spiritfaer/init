@@ -1,0 +1,2 @@
+lsdlk -l
+#df -h

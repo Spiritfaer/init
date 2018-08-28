@@ -1,0 +1,1 @@
+df -hx tmpfs
